@@ -1,0 +1,20 @@
+{
+  "name": "gold-digger",
+  "version": "1.0.0",
+  "description": "an app for investing in gold",
+  "homepage": "https://github.com/TarifChandan/gold-digger#readme",
+  "bugs": {
+    "url": "https://github.com/TarifChandan/gold-digger/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TarifChandan/gold-digger.git"
+  },
+  "license": "ISC",
+  "author": "Tarif Chandan",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
